@@ -1,0 +1,99 @@
+.main{
+	background-image: url("img.jpg") ;
+	background-size: cover;
+  background-attachment: fixed;
+	text-align: center;
+	    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    
+    }
+h1{
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 70px;
+	padding-top: 30px;
+
+}
+#head{
+	font-size: 20px;
+	
+	
+}
+.form{
+	width: 700px;
+	background-color:#ffcccc;
+	margin-left: 325px;
+	border-radius: 2%;
+	background: rgba(180, 0.5, 0, 0.5);
+   
+}
+.label{
+	margin-right: 546px;
+	padding-top: 30px;
+	font-size: 20px;
+	font-weight: 550;
+	padding-bottom: 5px;
+
+}
+.input{
+width: 600px;
+border-radius:5%;
+height: 35px;
+
+
+}
+
+#submit{
+	width: 550px;
+	padding-top: 10px;
+	background-color: #2F5E36;
+	margin-right: 1px;
+}
+#button{
+ padding-top: 30px;
+ padding-bottom: 20px;
+ background-color: rgba(180, 0, 0, 0,5);
+
+}
+.radio{
+	font-size: 20px;
+	font-weight: 550;
+	margin-right: 500px;
+
+}
+#radio1{
+	width: 15px;
+	height: 15px;
+	
+}
+#radio2{
+	width: 15px;
+	height: 15px;
+	margin-right: 20px;
+
+}
+#radio3{
+	width: 15px;
+	height: 15px;
+	margin-right: 10px;
+}
+
+
+
+#check{
+	text-align: left;
+	width: 600px;
+	font-size: 20px;
+	font-weight: 550;
+	margin-left: 50px;
+}
+
+
+
+
+
+
+
+
